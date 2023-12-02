@@ -15,7 +15,7 @@ public class Square {
     }
 
     public double Perimeter() {
-        return side;
+        return 4 * side;
     }
 
 
